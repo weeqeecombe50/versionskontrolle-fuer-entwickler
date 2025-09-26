@@ -3,7 +3,7 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Developer Version Control System!');
+  res.send('Welcome to the Developer Version Control System! Enjoy your stay.');
 });
 
 app.listen(port, () => {
