@@ -3,7 +3,7 @@ const app = express();
 const port = 3000;
 
 app.get('/', (req, res) => {
-  res.send('Welcome to the Developer Version Control System! Remember, effective version control is crucial for successful collaboration. Enjoy your coding journey!');
+  res.send('Welcome to the Developer Version Control System! Effective version control is vital for collaboration. Happy coding!');
 });
 
 app.listen(port, () => {
