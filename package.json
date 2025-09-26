@@ -1,6 +1,6 @@
 {
   "name": "versionskontrolle-fuer-entwickler",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Ein Tool zur Verwaltung von Softwareversionen",
   "main": "index.js",
   "scripts": {
