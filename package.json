@@ -1,0 +1,13 @@
+{
+  "name": "versionskontrolle-fuer-entwickler",
+  "version": "1.0.0",
+  "description": "Ein Tool zur Verwaltung von Softwareversionen",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "license": "MIT"
+}
